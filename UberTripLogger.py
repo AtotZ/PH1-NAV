@@ -1,5 +1,5 @@
 # File: TestSubjext/UberTripLogger.py
-
+print("✅ Hello from GitHub! The sync is working.")
 import photos
 import datetime
 import re
