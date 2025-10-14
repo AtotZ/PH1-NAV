@@ -1,7 +1,7 @@
 # OnisAI — Uber Trip Logger & Zone Intelligence
 
-OnisAI is a **modular pipeline** that watches your Uber Driver app, parses offers via OCR, calculates metrics, and builds databases of trips, summaries, and pickup/dropoff intelligence.  
-It acts like a **personal co-pilot**, helping you decide which trips are worth it, and learning patterns of traffic delays and bad zones.
+OnisAI is a **modular pipeline** that watches the Uber Driver app, parses offers via OCR, calculates metrics, and builds databases of trips, summaries, and pickup/dropoff intelligence.  
+It acts like a **personal co-pilot**, helping to decide which trips are worth it, and learning patterns of traffic delays and bad zones.
 
 ---
 Modular Structure
