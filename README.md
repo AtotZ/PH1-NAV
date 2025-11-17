@@ -3,6 +3,13 @@
 OnisAI is a **modular pipeline** that watches the Uber Driver app, parses offers via OCR, calculates metrics, and builds databases of trips, summaries, and pickup/dropoff intelligence.  
 It acts like a **personal co-pilot**, helping to decide which trips are worth it, and learning patterns of traffic delays and bad zones.
 
+## Key Features
+- OCR screenshot extraction via Apple Vision
+- Automated trip parsing and metrics computation
+- JSON grid databases for pickup/dropoff intelligence
+- 1-tap and 2-tap iOS Shortcut integration
+- Automatic SUMMARY + RAW log building
+- Zone intelligence, guardrail logic and delay detection
 ---
 Modular Structure
 
