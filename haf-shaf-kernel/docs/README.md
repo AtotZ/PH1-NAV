@@ -13,10 +13,12 @@ All future modular files must derive solely from `/rules/haf_shaf_master_rules.t
                             │
                             ▼
                             
+                            
               Emits Deterministic Prompts
         (STACK • CONTEXT • TASK • OUTPUT RULES)
                             │
                             ▼
+                            
                             
 ┌────────────────────────────────────────────┐
 │             EXECUTOR-as-ENGINE             │
@@ -24,6 +26,7 @@ All future modular files must derive solely from `/rules/haf_shaf_master_rules.t
 └───────────────────────────┬────────────────┘
                             │
                             ▼
+                            
                           
                 Executes Instructions:
      - Code generation
@@ -34,10 +37,12 @@ All future modular files must derive solely from `/rules/haf_shaf_master_rules.t
                             │
                             ▼
                             
+                            
 ┌────────────────────────────────────────────┐
 │          OUTPUT SYSTEM / ARTEFACTS         │
 │  (Apps • APIs • Pipelines • Automations)   │
 └────────────────────────────────────────────┘
+
 
 ## Summary
 
