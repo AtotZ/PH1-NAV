@@ -24,7 +24,7 @@ All future modular files must derive solely from `/rules/haf_shaf_master_rules.t
 └───────────────────────────┬────────────────┘
                             │
                             ▼
-                            
+                          
                 Executes Instructions:
      - Code generation
      - File creation
